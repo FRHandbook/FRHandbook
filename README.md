@@ -21,23 +21,21 @@ The data and code will be released in this Github and will be updated subsequent
 
 ## Table of Contents
 
-
-    
 - [Part I. Introduction and Fundamentals](#)
     * [1. Face Recognition Research and Development](#)
     * [2. Convolutional Neural Networks and Architectures](#)    
     * [3. Generative Networks](#)   
 
 - [Part II.  Face Processing Modules](#)
-    * [4. Face Detection](#)
-    * [5. Facial Landmark Localization](#)
-    * [6. Facial Attribute Analysis](#)
-    * [7. Face Presentation Attack Detection](#)
-    * [8. Face Feature  Embedding](#)
-    * [9. Video-based Face Recognition](#)
-    * [10. Face Recognition with Synthetic Data](#)
-    * [11. Uncertainty-aware Face Recognition](#)
-    * [12. Reducing Bias in Face Recogntion](#)
-    * [13. Adversarial Attacks on Face Recognition](#)
-    * [14. Heterogeneous Face Recognition](#)
-    * [15. 3D Face Recognition](#)
+    * [4. Face Detection](https://github.com/FRHandbook/FRHandbook/tree/main/Detection)
+    * [5. Facial Landmark Localization](https://github.com/FRHandbook/FRHandbook/tree/main/LandmarkLocalization)
+    * [6. Facial Attribute Analysis](https://github.com/FRHandbook/FRHandbook/tree/main/AttributeAnalysis)
+    * [7. Face Presentation Attack Detection](https://github.com/FRHandbook/FRHandbook/tree/main/PresentationAttackDetection)
+    * [8. Face Feature Embedding](https://github.com/FRHandbook/FRHandbook/tree/main/FeatureEmbedding)
+    * [9. Video-based Face Recognition](https://github.com/FRHandbook/FRHandbook/tree/main/VideoFR)
+    * [10. Face Recognition with Synthetic Data](https://github.com/FRHandbook/FRHandbook/tree/main/SyntheticFR)
+    * [11. Uncertainty-aware Face Recognition](https://github.com/FRHandbook/FRHandbook/tree/main/UncertaintyawareFR)
+    * [12. Reducing Bias in Face Recogntion](https://github.com/FRHandbook/FRHandbook/tree/main/DebiasFR)
+    * [13. Adversarial Attacks on Face Recognition](https://github.com/FRHandbook/FRHandbook/tree/main/AdversarialAttack)
+    * [14. Heterogeneous Face Recognition](https://github.com/FRHandbook/FRHandbook/tree/main/HeterogeneousFR)
+    * [15. 3D Face Recognition](https://github.com/FRHandbook/FRHandbook/tree/main/3DFR)
