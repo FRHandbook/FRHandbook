@@ -35,7 +35,7 @@ The data and code will be released in this Github and will be updated subsequent
     * [9. Video-based Face Recognition](https://github.com/FRHandbook/FRHandbook/tree/main/VideoFR)
     * [10. Face Recognition with Synthetic Data](https://github.com/FRHandbook/FRHandbook/tree/main/SyntheticFR)
     * [11. Uncertainty-aware Face Recognition](https://github.com/FRHandbook/FRHandbook/tree/main/UncertaintyawareFR)
-    * [12. Reducing Bias in Face Recogntion](https://github.com/FRHandbook/FRHandbook/tree/main/DebiasFR)
+    * [12. Reducing Bias in Face Recognition](https://github.com/FRHandbook/FRHandbook/tree/main/DebiasFR)
     * [13. Adversarial Attacks on Face Recognition](https://github.com/FRHandbook/FRHandbook/tree/main/AdversarialAttack)
     * [14. Heterogeneous Face Recognition](https://github.com/FRHandbook/FRHandbook/tree/main/HeterogeneousFR)
     * [15. 3D Face Recognition](https://github.com/FRHandbook/FRHandbook/tree/main/3DFR)
